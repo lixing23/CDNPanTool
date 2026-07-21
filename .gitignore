@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+upload_history.json
+.env
+.venv/
+venv/
