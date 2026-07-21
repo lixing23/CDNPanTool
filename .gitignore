@@ -4,3 +4,4 @@ upload_history.json
 .env
 .venv/
 venv/
+.gh-config/
