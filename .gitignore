@@ -1,7 +1,25 @@
 __pycache__/
 *.py[cod]
 upload_history.json
+settings.json
+cache/
 .env
 .venv/
 venv/
 .gh-config/
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+_make_icon.py
+_make_logo.py
+_decode_share.py
+
+# Logs and runtime data
+logs/
+default_cover.jpg
+
+# OS files
+Thumbs.db
+.DS_Store
